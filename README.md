@@ -11,3 +11,5 @@ The video of my homework is available on youtube: https://youtube.com/shorts/MWK
 # Homework 3
 
 This assignment involves simulating a 3-floor elevator control system using LEDs, buttons, and a buzzer with Arduino. By the end of this task, you will gain experience in using button state change, implementing debouncing techniques, and coordinating multiple components to represent real-world scenarios.
+
+The video of my homework is available on youtube: https://youtube.com/shorts/zBxAHPYWnX0
