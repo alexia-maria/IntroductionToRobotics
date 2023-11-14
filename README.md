@@ -23,3 +23,5 @@ The video of my homework is available on youtube: https://youtube.com/shorts/818
 # Homework 5
 
 Using the 4 digit 7 segment display and 3 buttons,you should implement a stopwatch timer that counts in 10ths of a secondand has a save lap functionality (similar to most basic stopwatch functionson most phones).
+
+The video of my homework is available on youtube: https://youtu.be/MK-Jhqv1ZpU
