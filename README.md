@@ -25,3 +25,8 @@ The video of my homework is available on youtube: https://youtube.com/shorts/818
 Using the 4 digit 7 segment display and 3 buttons,you should implement a stopwatch timer that counts in 10ths of a secondand has a save lap functionality (similar to most basic stopwatch functionson most phones).
 
 The video of my homework is available on youtube: https://youtu.be/MK-Jhqv1ZpU
+
+# Homework 6
+
+Develop a ”Smart Environment Monitor and Logger” using Arduino.  This sys-tem will utilize various sensors to gather environmental data, log this data intoEEPROM, and provide both visual feedback via an RGB LED and user interaction through a Serial Menu.  The project focuses on integrating sensor readings,memory management, Serial Communication and the general objective of build-ing a menu.
+
