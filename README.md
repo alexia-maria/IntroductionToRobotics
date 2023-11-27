@@ -32,3 +32,7 @@ Develop a ”Smart Environment Monitor and Logger” using Arduino.  This sys-te
 
 The video of my homework is available on youtube: https://youtu.be/UbVYs-w5v2Q
 
+# Homework 7
+
+Develop a small game on the 8x8 matrix.  The game must have at least 3 typesof elements:  player (blinks slowly),  bombs/bullets (blinks fast),  wall (doesn’tblink).  The purpose of this to get you started with your matrix project.  Thebasic idea is that you generate walls on the map (50% - 75% of the map) and thenyou move around with the player and destroy them.  You can do it Bombermanstyle or terminator-tanks style (or another way, be creative).
+
